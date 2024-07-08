@@ -1,0 +1,45 @@
+.btn-primary {
+    background: #176AFB;
+}
+
+.btn-secondary {
+    background: #697379;
+}
+
+.btn-success {
+    background: #1F865A;
+}
+
+.btn-danger {
+    background: #DC3642;
+    color: rgb(255, 255, 255);
+}
+
+.btn-danger:hover {
+    background: #e06771;
+}
+
+.btn-dark {
+    background: #262431;
+}
+
+.p-6-5 {
+    padding: 6px 5px;
+}
+
+.w-100 {
+    width: 100%;
+}
+
+.f-sz-16 {
+    font-size: 16px;
+}
+
+.p-tb-5 {
+    padding: 5px 0;
+}
+
+
+.border {
+    border: 1px solid gainsboro;
+}
